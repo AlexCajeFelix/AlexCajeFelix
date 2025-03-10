@@ -7,8 +7,9 @@ Linkedin - [https://www.linkedin.com/in/alex-felix-3a2118340/](https://www.linke
 
 <div>  
   <a href="https://github.com/AlexCajeFelix">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCajeFelix&theme=dracula"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCajeFelix&layout=compact&langs_count=8&theme=dracula"/>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCajeFelix&theme=dracula" style="display: inline-block;"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCajeFelix&layout=compact&langs_count=8&theme=dracula" style="display: inline-block;"/>
+  </a>  
 </div>
 
 ![Snake animation](https://github.com/AlexCajeFelix/AlexCajeFelix/blob/output/github-contribution-grid-snake.svg)

@@ -16,6 +16,6 @@ jobs:
       - name: Generate Snake animation
         uses: Platane/snk@v2
         with:
-          github_user_name: ${{ github.actor }}
+          github_user_name: AlexCajeFelix
           entryPoint: "main"
           args: "-o output/github-contribution-grid-snake.svg"

@@ -1,25 +1,14 @@
-## 👋 Hey there! 
+### Hello there, I'm Alex Caje Felix 😃
 
-I'm a developer in training, currently studying **Java** ☕ and **JavaScript** ⚡ at FIAP.  
-🚀 Passionate about technology, clean code, and solving challenging problems.  
-💡 Always exploring new stacks and breaking my head over bugs (comes with the job, right?).  
+I'm a student at FIAP and I've always wanted to be a software developer. I'm passionate about creating things and love the logic behind it! I'm currently learning **Java**, **Spring Boot**, **React**, and **JavaScript**. You can find and check out some of my projects here. Let me know if you think I could have done something differently!
 
----
+### Where you can find me 🌎💻  
+Linkedin - [https://www.linkedin.com/in/alex-felix-3a2118340/](https://www.linkedin.com/in/alex-felix-3a2118340/)
 
-### 📌 Currently learning:
-- Backend with **Spring Boot** 🌱  
-- Frontend with **React & React Native & Node** 📱  
-- Databases & APIs 🔗  
-
----
-### 📊 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCajeFelix&layout=compact&langs_count=6&theme=tokyonight"/>
+<div>  
+  <a href="https://github.com/AlexCajeFelix">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexCajeFelix&theme=dracula"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexCajeFelix&layout=compact&langs_count=8&theme=dracula"/>  
 </div>
----
 
-### 🌎 Connect with me:
-<div> 
-  <a href="https://instagram.com/AlexStrars" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alex-felix-3a2118340/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+![Snake animation](https://github.com/AlexCajeFelix/AlexCajeFelix/blob/output/github-contribution-grid-snake.svg)

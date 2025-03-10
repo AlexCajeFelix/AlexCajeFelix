@@ -12,7 +12,8 @@ Linkedin - [https://www.linkedin.com/in/alex-felix-3a2118340/](https://www.linke
   </a>  
 </div>
 
-![Snake animation](https://github.com/AlexCajeFelix/AlexCajeFelix/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AlexCajeFelix/AlexCajeFelix/blob/main/output/github-contribution-grid-snake.svg)
+
 
 
 

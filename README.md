@@ -8,7 +8,7 @@ I'm a developer in training, currently studying **Java** ☕ and **JavaScript** 
 
 ### 📌 Currently learning:
 - Backend with **Spring Boot** 🌱  
-- Frontend with **React & React Native** 📱  
+- Frontend with **React & React Native & Node** 📱  
 - Databases & APIs 🔗  
 
 ---

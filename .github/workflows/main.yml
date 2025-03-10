@@ -10,10 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v2
-      - name: Generate Snake Animation
+
+      - name: Generate Snake animation
         uses: Platane/snk@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output_dir: output
+          github_user_name: ${{ github.actor }}
+          entryPoint: "main"
+          args: "-o output/github-contribution-grid-snake.svg"
